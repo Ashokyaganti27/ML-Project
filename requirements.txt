@@ -2,6 +2,9 @@ pandas
 numpy
 Flask
 ipykernel
+Scikit-Learn
+seaborn
+matplotlib
 
 -e .
   
